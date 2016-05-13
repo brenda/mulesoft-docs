@@ -171,6 +171,8 @@ No users have permissions to submit items by default, not even organization admi
 * Exchange Administrators
 * Exchange Viewers
 
+//Exchange 1.6 and newer supports the rol Viewer, older versions have this rol by default, the user can't see and select this role from Access Management.
+
 image:exchange-roles.png[exchange-roles]
 
 To add users to a role, click a role, click the username field to select a name, and click the blue plus button to save the entry. The user is assigned Exchange permissions and can submit items.
