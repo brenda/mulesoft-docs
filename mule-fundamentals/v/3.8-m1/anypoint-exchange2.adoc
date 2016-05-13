@@ -284,6 +284,7 @@ To view business groups:
 +
 image:exchange-view-business-groups.png[exchange-view-business-groups]
 
+// The Business Groups feature in Exchange is a litle bit complex, the publish content is shared through the Business Groups using same kind of "hierarchy". For example, if some template is published in the master organization, all organization below are going to see this template in the content list. Also, the content list have new filters to search content: The 'Show content from' filter and the 'Scope' filter, the last one depends on the role that the user have in the organization that is selected in the navbar. Also, the content that is shown in the list by default depends in the organization or business group that is selected in the navbar.
 
 == See Also
 
