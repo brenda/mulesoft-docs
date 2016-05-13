@@ -201,6 +201,8 @@ Keep in mind that after submitting an item, it is added to the Exchange with an
 
 image:publish.png[publish]
 
+//This image is an old one. For the 1.6 Exchange version we have the 'Add Item' button, you can check in https://stg.anypoint.mulesoft.com
+
 == Submitting Templates and Examples to a Private Exchange
 
 Templates and examples are both submitted to the Exchange in the same way. You can add multiple template versions to work with different Mule runtime versions, just click the *Add Versions* button and then *Done* after filling in the version information. For each version you add, you have three options for linking to the Mule Project itself:
